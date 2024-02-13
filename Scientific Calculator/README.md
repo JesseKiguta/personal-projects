@@ -22,5 +22,5 @@ The following resources were of great assistance to me as I worked on this proje
 
 
 ## Things to consider
-- The operations have to be input **without syntax errors** for the calculator give output.
+- The operations have to be input __**without syntax errors**__ for the calculator give output.
 - If the Calculator window doesn't pop up for some reason, ensure tkinter is installed properly.
