@@ -24,7 +24,6 @@ class Calculator:
             self.calculation = self.calculation.replace('log', 'math.log10')
             self.calculation = self.calculation.replace('pi', 'math.pi')
             self.calculation = self.calculation.replace('e', 'math.e')
-            self.calculation = self.calculation.replace('lb2', 'math.log2')
             self.calculation = self.calculation.replace('ln', 'math.log')
             self.calculation = self.calculation.replace('abs', 'math.fabs')
             self.calculation = self.calculation.replace('fct', 'math.factorial')
